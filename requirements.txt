@@ -1,0 +1,6 @@
+dotenv
+keras
+tensorflow
+numpy
+pandas
+matplotlib
